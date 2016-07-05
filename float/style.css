@@ -1,0 +1,25 @@
+.content {
+  height: 400px;
+  float: left;
+  width: 100%;
+  background: green;
+}
+
+#a {
+  height: 400px;
+  float: right;
+  width: 20%;
+  background: red;
+}
+#j{
+  height: 400px;
+  float: left;
+  width: 20%;
+  background: red;
+}
+#k{
+  height: 800px;
+  float:left;
+  width: 2%;
+  background: yellow;
+}
