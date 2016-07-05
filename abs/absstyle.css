@@ -1,0 +1,17 @@
+
+.wrap
+{
+  background:yellow;
+  width: 200px;
+  height: 200px;
+}
+.box
+{
+width:200px;
+height:200px;
+background:red;
+margin-top:10px;
+position:relative;
+top: 400px;
+left: 400px;
+}
